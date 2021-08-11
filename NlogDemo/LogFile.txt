@@ -1,0 +1,6 @@
+﻿2021-08-11 11:15:42.8691|INFO|NlogDemo.NLog|Sub method
+2021-08-11 11:15:42.8943|DEBUG|NlogDemo.NLog|Debug Successful
+2021-08-11 11:15:42.8943|WARN|NlogDemo.NLog|Warning
+2021-08-11 11:39:43.2834|INFO|NlogDemo.NLog|Sub method
+2021-08-11 11:39:43.3092|DEBUG|NlogDemo.NLog|Debug Successful
+2021-08-11 11:39:43.3092|WARN|NlogDemo.NLog|Warning
